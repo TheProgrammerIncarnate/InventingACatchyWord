@@ -1,5 +1,5 @@
 # InventingACatchyWord
-We're trying to invent a "catchy, pithy" term to describe describe that guilt you inevitably feel when you don’t have time for all the projects you have; and feel like you’re neglecting some. 
+We're trying to invent a "catchy, pithy" term to describe that guilt you inevitably feel when you don’t have time for all the projects you have; and feel like you’re neglecting some. 
 
 Inspired by https://twitter.com/ktemkin/status/1223721772039540737
 
